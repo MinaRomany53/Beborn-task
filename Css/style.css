@@ -24,6 +24,7 @@ header .container {
   justify-content: space-between;
   align-items: center;
   flex-wrap: wrap;
+  z-index: 10;
 }
 
 .logo a {
@@ -35,6 +36,7 @@ header .container {
   color: #000;
   text-decoration: none;
   font-weight: bold;
+  z-index: 10;
 }
 .mobile_btn {
   display: none;
