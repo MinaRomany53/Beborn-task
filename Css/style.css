@@ -240,7 +240,7 @@ main .container {
 }
 @media (max-width: 992px) {
   .Landing-content h1 {
-    padding: 3rem 2rem;
+    padding: 2rem 2rem;
   }
   .Landing-content p {
     padding: 0 6rem;
