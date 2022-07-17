@@ -311,6 +311,6 @@ main .container {
 }
 @media (min-width: 786px) {
   .overlay {
-    width: 0%;
+    width: 0% !important;
   }
 }
